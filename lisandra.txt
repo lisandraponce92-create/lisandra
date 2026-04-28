@@ -1,5 +1,0 @@
-"Hello World!"
-chocolate 
-arroz congris
-bife
-.
